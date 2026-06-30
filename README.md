@@ -1,4 +1,4 @@
-# Krypton-Client
+# Krypton Client
 
 <img src="https://i.imgur.com/kFHrdWf.jpeg" width="600"/>
 
